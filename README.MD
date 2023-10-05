@@ -4,7 +4,7 @@
 
 
 ### Hi there :wave:
-I am a cosmic dust interested in VR, AR, game, and Unity engine
+I am a cosmic dust interested in VR, AR, game, and Unity engine!
 
 </div>
 
