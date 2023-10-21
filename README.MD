@@ -35,5 +35,5 @@ I am a cosmic dust interested in VR, AR, game, and Unity engine!
 ### :construction_worker: Guest logs
 
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%kunnymann&count_bg=%23ADEFFF&title_bg=%2303CAFC&icon=&icon_color=%23E7E7E7&title=Github+Guest&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKunnymann&count_bg=%2323ADEF&title_bg=%232303CAFC&icon=&icon_color=%23E7E7E7&title=Github-guest&edge_flat=false"/>
 </div>
