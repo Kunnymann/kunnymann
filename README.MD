@@ -1,13 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:03CAFC,100:ADEFFF:&height=200&section=header&text=Kunnymann&fontSize=65&fontColor=ffffff&desc=Unity%20Engineer&descSize=20&descAlignY=30)
-
-
-### Hi there :wave:
-I am a cosmic dust interested in VR, AR, game, and Unity engine!
-
-</div>
-
 ### :clipboard:Tech & Work
 <div align="center">
     <p>
