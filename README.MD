@@ -20,4 +20,4 @@
 
 ### :construction_worker: Account logs
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunnymann&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kunnymann&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats)
