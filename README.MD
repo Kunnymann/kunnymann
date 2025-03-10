@@ -20,4 +20,8 @@
 
 ### :construction_worker: Account logs
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kunnymann&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
