@@ -1,7 +1,7 @@
 ### :clipboard:Tech & Work
 
 <div align="center">
-    <p>
+<p>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">&nbsp
@@ -15,13 +15,9 @@
 <img src="https://img.shields.io/badge/Notion-4A154B?style=flat-square&logo=slack&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Oculus-0467DF?style=flat-square&logo=meta&logoColor=white">
-    </p>
+</p>
 </div>
 
 ### :construction_worker: Account logs
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunnymann&show_icons=true&theme=radical)
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunnymann&show_icons=true)
