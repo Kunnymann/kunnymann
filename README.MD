@@ -1,4 +1,5 @@
 ### :clipboard:Tech & Work
+
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">&nbsp
@@ -18,12 +19,6 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunnymann&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunnymann&show_icons=true&theme=radical)
 
-</div>
-
-### :construction_worker: Guest logs
-
-<div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKunnymann&count_bg=%2323ADEF&title_bg=%232303CAFC&icon=&icon_color=%23E7E7E7&title=Github-guest&edge_flat=false"/>
 </div>
