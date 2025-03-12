@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Verdaccio-ffd101?style=flat-square&logo=verdaccio&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/Notion-4A154B?style=flat-square&logo=slack&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Oculus-0467DF?style=flat-square&logo=meta&logoColor=white">
 </p>
